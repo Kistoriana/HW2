@@ -32,7 +32,7 @@ class Friend {
         return "Friend{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
-                ", isFriendFromSchool=" + haveAPet +
+                ", haveAPet=" + haveAPet +
                 ", hoursSpentTogetherLastWeek=" + hoursSpentTogetherLastWeek +
                 '}';
     }
